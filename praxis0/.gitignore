@@ -1,0 +1,16 @@
+# Python virtual environment and caches
+.venv/
+.rnvs_lock
+test/__pycache__/
+
+# CMake build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+_compile_commands.json
+
+# Generated packages
+*.tar.gz
